@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'montserrat';
+    src: url(assets/Montserrat/static/Montserrat-Bold.ttf);
+}
+
+img{
+   width: 900px; 
+}
+
+.unordered-list{
+    list-style-type: circle;
+    list-style-position: outside;
+}
+.ordered-list{
+    margin-left: 30px;
+    list-style-image: url(assets/star-svgrepo-com.svg);
+    list-style-position: outside;
+    text-align: center;
+    width: 500px;
+    }
+.ingredients{
+    font-size: 20px;
+    line-height: 30px;
+}
+header{
+    margin-left: 700px;
+    font-family:"montserrat";
+    
+}
+.one{
+    background-color: #177E89;
+    padding-bottom: 20px;
+    border-radius: 25px;
+}
+.three{
+    background-color: #084C61;
+    color: white;
+    padding-bottom: 20px;
+    border-radius: 25px;
+}
+.five{
+    background-color: #DB3A34;
+    padding-bottom: 20px;
+    border-radius: 25px;
+}
+.recipe-details{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    border-radius: 30px;
+}
